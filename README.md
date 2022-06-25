@@ -1,2 +1,2 @@
-# MY GITAPP
+#MY GITAPP
 This is my git app
